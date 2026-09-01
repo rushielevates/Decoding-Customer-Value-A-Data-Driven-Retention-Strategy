@@ -1,0 +1,4 @@
+profile_type,customer_count,avg_age,min_age,max_age,primary_gender,top_location,top_category,top_item,dominant_size,preferred_color,preferred_season,preferred_payment,preferred_shipping,dominant_frequency,dominant_buyer_type,avg_spend,avg_previous_purchases,avg_review_rating,avg_loyalty_score,pct_subscribed,pct_weekly_buyers,pct_no_discount_needed,pct_no_promo_needed
+"Ideal Customer (High Loyalty)",1170,44.3,18,70,Male,Pennsylvania,Clothing,Dress,M,Green,Winter,"Credit Card","2-Day Shipping",Weekly,"Valuable but Promo-Driven",77,34.3,3.77,65,57.3,19.6,33.5,33.5
+"Growth Target (Medium Loyalty)",1560,43.8,18,70,Male,Illinois,Clothing,Handbag,M,Yellow,Spring,"Credit Card","Store Pickup",Monthly,"Mixed Behavior",62,25.3,3.75,43.7,20.9,13.5,62.0,62.0
+"Low Loyalty (Contrast)",1170,44.2,18,70,Male,Vermont,Clothing,Jacket,M,Blue,Spring,PayPal,"Next Day Air","Every 3 Months","At Risk (Low Value, No Discounts)",40,16.5,3.73,23.3,4.9,8.5,73.8,73.8

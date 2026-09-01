@@ -1,0 +1,3 @@
+profile_type,customer_count,avg_age,min_age,max_age,primary_gender,top_location,top_category,top_item,preferred_color,preferred_season,preferred_payment,preferred_shipping,avg_spend,avg_previous_purchases,avg_review_rating,pct_subscribed,pct_weekly_buyers,pct_no_discount_needed
+"Ideal Customer (High Loyalty)",1170,44.3,18,70,Male,Pennsylvania,Clothing,Dress,Green,Winter,"Credit Card","2-Day Shipping",77,34.3,3.77,57.3,19.6,33.5
+"Low Loyalty (For Contrast)",1170,44.2,18,70,Male,Vermont,Clothing,Jacket,Blue,Spring,PayPal,"Next Day Air",40,16.5,3.73,4.9,8.5,73.8

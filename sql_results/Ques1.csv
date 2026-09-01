@@ -1,0 +1,7 @@
+Customer_Segment,customer_count,pct_of_customers,avg_spend,total_revenue,pct_of_total_revenue,avg_previous_purchases,avg_satisfaction,avg_loyalty_score
+"Genuinely Loyal (No Discounts Needed)",392,10.1,86.09,33747,14.5,38.8,3.85,61
+"Valuable but Promo-Driven",778,19.9,72.70,56558,24.3,32.0,3.73,67.1
+"Growing Organically",967,24.8,67.05,64839,27.8,26.7,3.75,43.2
+"Mixed Behavior",593,15.2,52.50,31132,13.4,23.0,3.73,44.5
+"At Risk (Low Value, No Discounts)",864,22.2,40.61,35084,15.1,17.0,3.72,23.1
+"Discount-Only (Only Buy on Sale)",306,7.8,38.30,11721,5.0,15.1,3.77,23.8

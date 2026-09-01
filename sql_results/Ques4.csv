@@ -1,0 +1,4 @@
+Loyalty_Tier_Corrected,customer_count,avg_spend_with_discount,avg_spend_without_discount,discount_lift_pct,promo_dependency_pct,promo_code_usage_pct,pct_discount_users_high_freq,pct_nondiscount_users_high_freq,avg_previous_purchases,avg_review_rating,avg_loyalty_score,pct_subscribed,revenue_from_discount_users,revenue_from_nondiscount_users,total_tier_revenue,pct_revenue_from_discount_users,pct_of_total_revenue_at_risk,recommended_action
+"High Loyalty",1170,72.70,86.09,-15.6,66.5,66.5,31.0,16.5,34.3,3.77,65,57.3,56558,33747,90305,62.6,24.3,"Gradually sunset discounts — replace with loyalty rewards & early access"
+"Medium Loyalty",1560,52.50,67.05,-21.7,38.0,38.0,16.1,25.6,25.3,3.75,43.7,20.9,31132,64839,95971,32.4,13.4,"Selective discounts — use only to trigger upgrade behavior, not habitually"
+"Low Loyalty",1170,38.30,40.61,-5.7,26.2,26.2,7.6,28.4,16.5,3.73,23.3,4.9,11721,35084,46805,25.0,5.0,"Test removing discounts — low tenure means low switching cost anyway"

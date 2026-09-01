@@ -1,0 +1,11 @@
+Location,avg_age,pct_age_18_30,pct_age_31_45,pct_age_46_60,pct_age_60_plus,pct_male,pct_female,dominant_category,dominant_season,avg_spend,avg_loyalty_score
+Alaska,43.0,26.4,29.2,27.8,16.7,66.7,33.3,Clothing,Spring,67.60,50
+Pennsylvania,43.0,36.5,16.2,25.7,21.6,63.5,36.5,Clothing,Summer,66.57,48.7
+Arizona,45.3,18.5,33.8,30.8,16.9,61.5,38.5,Clothing,Summer,66.55,48.2
+"West Virginia",42.5,29.6,24.7,29.6,16.0,71.6,28.4,Accessories,Spring,63.88,46.1
+Nevada,43.6,28.7,26.4,26.4,18.4,66.7,33.3,Clothing,Spring,63.38,47.5
+Washington,44.4,24.7,27.4,26.0,21.9,65.8,34.2,Clothing,Spring,63.33,45.4
+"North Dakota",43.8,19.3,36.1,26.5,18.1,71.1,28.9,Clothing,Summer,62.89,44.2
+Virginia,41.6,35.1,23.4,28.6,13.0,68.8,31.2,Clothing,Winter,62.88,45.5
+Utah,43.3,22.5,33.8,29.6,14.1,62.0,38.0,Clothing,Fall,62.58,46.3
+Michigan,42.1,23.3,37.0,27.4,12.3,67.1,32.9,Clothing,Fall,62.10,44.5
